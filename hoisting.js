@@ -12,7 +12,7 @@ console.log(lyric);
 
 
 function crazy() {
-  var thisIsCrazy
+  var thisIsCrazy = "hey!!!"
   thisIsCrazy();
   thisIsCrazy = function (){
     console.log("hey!!!")
